@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Pencarian Kode Komoditas SPKRT 2027",
+  "short_name": "SPKRT 2027",
+  "description": "Pencarian kode komoditas berdasarkan nama komoditas dan kualitas.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f4f7",
+  "theme_color": "#10385f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

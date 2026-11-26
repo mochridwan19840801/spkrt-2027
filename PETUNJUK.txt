@@ -1,0 +1,11 @@
+PENCARIAN KODE KOMODITAS SPKRT 2027 — iPhone PWA
+
+Isi paket: index.html, ikon layar utama, manifest, dan service worker offline.
+
+Pemasangan di iPhone:
+1. Unggah seluruh isi folder ini ke hosting HTTPS (misalnya hosting kantor atau GitHub Pages).
+2. Buka alamat index.html menggunakan Safari di iPhone. Tunggu sampai halaman selesai terbuka agar cache offline tersimpan.
+3. Di Safari, tekan Bagikan > Tambahkan ke Layar Utama. Aktifkan “Buka sebagai App” jika pilihan tersebut muncul, lalu tekan Tambahkan.
+4. Setelah pertama kali dibuka dan tersimpan, halaman pencarian dapat digunakan tanpa koneksi internet.
+
+File lokal yang dibuka dari aplikasi Files tidak dapat memasang service worker; pemasangan PWA memerlukan alamat HTTPS.
